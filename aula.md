@@ -30,3 +30,4 @@ Function
 ## Operadores
 
 Operador de atribuição de valor "="
+Operados de contatenação "+"
