@@ -31,3 +31,18 @@ Function
 
 Operador de atribuição de valor "="
 Operados de contatenação "+"
+Operadores de comparação "==" "!=" "<=" >=" "<" ">"
+
+## Modulo ou biblioteca em Node js:
+
+Importação de módulos (require, CommonJS)
+Biblioteca 'inquirer' para criar prompts interativos (como o select)
+
+## Programação assíncrona e Promises:
+
+Uso de funções assincronas (async/await)
+
+# Condicionais 
+
+if/else
+switch
