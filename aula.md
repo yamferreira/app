@@ -38,6 +38,13 @@ Spread Operator: "..."
 
 Importação de módulos (require, CommonJS)
 Biblioteca 'inquirer' para criar prompts interativos (como o select)
+FS (file system) modulo nativo
+
+## JSON
+
+JavaScript Object Notation (.json)
+JSON.parse(): Transforma de JSON para JS
+JSON.stringify(): Transforma de JS para JSON 
 
 ## Programação assíncrona e Promises:
 
