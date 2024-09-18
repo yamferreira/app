@@ -32,6 +32,7 @@ Function
 Operador de atribuição de valor "="
 Operados de contatenação "+"
 Operadores de comparação "==" "!=" "<=" >=" "<" ">"
+Spread Operator: "..."
 
 ## Modulo ou biblioteca em Node js:
 
@@ -46,3 +47,8 @@ Uso de funções assincronas (async/await)
 
 if/else
 switch
+
+### Arrays
+
+Uma lista que contrnha qualquer tipo de dado
+Metodo de array: [push, find, forEach] : HOF (Higher Order Functions)
