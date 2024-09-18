@@ -51,4 +51,4 @@ switch
 ### Arrays
 
 Uma lista que contrnha qualquer tipo de dado
-Metodo de array: [push, find, forEach] : HOF (Higher Order Functions)
+Metodo de array: [push, find, forEach, map] : HOF (Higher Order Functions)
